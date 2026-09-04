@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\PetC++\Custom 2D Physical Engine\build\CMakeFiles\ac8a1612a81e2a546a2421c0deff5a6d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{04B35641-8A71-39DC-9A84-E4BF14D82C39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

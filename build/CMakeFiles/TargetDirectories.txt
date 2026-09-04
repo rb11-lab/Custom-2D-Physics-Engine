@@ -1,0 +1,3 @@
+C:/PetC++/Custom 2D Physical Engine/build/CMakeFiles/Custom2DPhysicalEngine.dir
+C:/PetC++/Custom 2D Physical Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/PetC++/Custom 2D Physical Engine/build/CMakeFiles/ZERO_CHECK.dir

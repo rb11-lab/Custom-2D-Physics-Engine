@@ -1,0 +1,10 @@
+^C:\PETC++\CUSTOM 2D PHYSICAL ENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/PetC++/Custom 2D Physical Engine" "-BC:/PetC++/Custom 2D Physical Engine/build" --check-stamp-file "C:/PetC++/Custom 2D Physical Engine/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
